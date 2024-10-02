@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student, who is intrested in cyber security domain  and software develpment
+A Passionate Developer from India IN
 
 
 ## 🌐 Socials:
