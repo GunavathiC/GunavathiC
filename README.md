@@ -1,30 +1,30 @@
 <h1 align="center">👋 Hello, I'm Gunavathi C</h1>
-<h3 align="center">Cybersecurity Student | SOC & Network Security Enthusiast</h3>
+<h3 align="center">Aspiring SOC Analyst | Cybersecurity & Network Security Enthusiast</h3>
 
 ---
+## 🚀 Professional Summary
 
-## 🚀 About Me
-
-- 🎓 B.EStudent  
-- 🛡️ Interested in Cybersecurity & SOC Operations  
-- 🔍 Learning by doing & building projects  
-- ⚡ Motto: Consistency > Perfection  
+Cybersecurity student with a strong interest in **Security Operations Center (SOC)** workflows, 
+threat detection, and network security monitoring. Passionate about understanding 
+real-world attack techniques and building defensive security skills through hands-on labs 
+and projects.
 
 ---
 
 ## 🔐 What I'm Focused On
 
-- 🔒 Cybersecurity fundamentals & attack vectors
+- 🔒 Security Operations Center (SOC) Fundamentals  
 - 🌐 Network Security & IDS/IPS
-- 🖥️ Remote Login Security (Windows & Linux)
+- 🖥️ Log Analysis & Threat Detection 
 - 📊 SOC fundamentals & log analysis
-- 🛡️ Ethical Hacking & Blue Team concepts 
+- 🛡️ Blue Team & Defensive Security
+- 🛡️ Windows & Linux Security
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Security Skills & Knowledge
 
-**Security / Networking**
+**Security & Networking**
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-blue)
 ![DNS](https://img.shields.io/badge/DNS-orange)
@@ -34,11 +34,12 @@
 
 ## Core Competencies:
 
-- TCP/IP Protocol Analysis
-- DNS & HTTP/HTTPS Security
-- Firewall Configuration & Management
-- Intrusion Detection/Prevention Systems
-- Authentication & Access Control
+- TCP/IP & Network Protocol Analysis  
+- DNS & Web Traffic Security Concepts  
+- Firewall & Access Control Basics  
+- Intrusion Detection & Prevention Concepts  
+- Authentication & System Security Fundamentals
+
 
 **Tools**
 
@@ -49,29 +50,45 @@
 
 **Programming**
 
-![Python](https://img.shields.io/badge/Python-blue)
+![Python](https://img.shields.io/badge/Python-Automation-blue)
+![Bash](https://img.shields.io/badge/Bash-Scripting-lightgrey)
 
+- Python for basic automation & security scripting  
+- Bash for Linux command-line & scripting fundamentals
 
 ---
 
 ## 📁 Featured Projects
 
-- 🔹 E-Wallet Security using Blockchain  
-- 🔹 Cyber-Threat-Intelligence-Dashboard  
-- 🔹 Green-GAN  
-- 🔹 Web Application Vulnerability Scanner  
-- 🔹 Blood Bank Management System  
-- 🔹 House Prediction ML Project  
+🔹 **E-Wallet Security using Blockchain**  
+Explored security concepts related to blockchain-based transaction systems and 
+data integrity mechanisms.
 
+🔹 **Cyber Threat Intelligence Dashboard**  
+Designed a dashboard concept focused on visualizing and analyzing threat data.
+
+🔹 **Web Application Vulnerability Scanner**  
+Built a project exploring common web vulnerabilities and detection logic.
+
+🔹 **Network & Security Mini Labs**  
+Hands-on exercises covering scanning, enumeration, and traffic analysis.
+
+🔹 **Green-GAN (Machine Learning Project)**  
+Implemented a GAN-based machine learning model to analyze data patterns and
+explore anomaly detection concepts applicable to identifying novel or unusual cyber threats.
+
+🔹**Security Awareness Quiz App**
+Built an interactive quiz application to educate users on cybersecurity best practices,
+phishing risks, and safe security habits.
 
 ---
 ## 🏆 Certifications & Practice Platforms
 
-| Platform      | Status        | Focus Area |
-|--------------|--------------|-------------|
-| TryHackMe    | Active        | Practical Labs & Challenges |
-| Blue Team Labs | In Progress | Defensive Security |
-| Self-Study   | Ongoing       | SOC & Log Analysis |
+| Platform        | Status       | Focus Area |
+|-----------------|--------------|-------------|
+| TryHackMe       | Active       | Practical Labs & SOC-related Learning |
+| Blue Team Labs  | In Progress  | Defensive Security & Analysis |
+| Self-Study      | Ongoing      | SOC & Log Analysis |
 
 ---
 ## 🛠 Current Tech Stack
@@ -90,7 +107,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=GunavathiC&show_icons=true&theme=dark)
 
 ---
 
