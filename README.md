@@ -75,28 +75,15 @@
 ---
 ## 🛠 Current Tech Stack
 
-**Operating Systems**  
-- Linux (Ubuntu / Kali)  
-- Windows  
+**Operating Systems** : Linux (Ubuntu / Kali) , Windows
 
-**Security & Analysis Tools**  
-- Wireshark  
-- Nmap  
-- Netcat  
+**Security & Analysis Tools** : Wireshark , Nmap , Netcat
 
-**Languages & Scripting**  
-- Python  
-- Bash  
+**Languages & Scripting** : Python , Bash 
 
-**Focus Areas**  
-- Network Security  
-- IDS / IPS  
-- SOC Operations  
-- Log Analysis  
+**Focus Areas** : Network Security , IDS / IPS , SOC Operations ,  Log Analysis   
 
-**Learning Platforms**  
-- TryHackMe  
-- Hands-on Labs
+**Learning Platforms** : TryHackMe , Hands-on Labs
 
 ---
 
