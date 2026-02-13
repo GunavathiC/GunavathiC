@@ -32,6 +32,24 @@ and projects.
 ![Firewalls](https://img.shields.io/badge/Firewalls-red)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-purple)
 
+---
+## 🧰 Technical Skills
+
+**Programming & Scripting**  
+Python • JavaScript • HTML • SQL  
+
+**Frameworks & Development**  
+Flask • Express.js • Node.js • React • Streamlit  
+
+**Cloud & Platforms**  
+Azure • AWS • Google Cloud • Firebase  
+
+**Tools & Technologies**  
+Docker • Postman • GitHub • MySQL  
+
+**Data & Analysis**  
+NumPy • Pandas
+
 ## Core Competencies:
 
 - TCP/IP & Network Protocol Analysis  
