@@ -93,12 +93,26 @@
 
 ---
 
-## 🌱 2026 Goals
+## 🎯 2026 Goals
 
-- Build hands-on security projects  
-- Improve SOC & log analysis skills  
-- Advance in TryHackMe  
-- Earn certifications  
+- ✅ Build hands-on security projects  
+- 📘 Master SOC fundamentals & log analysis  
+- 🚀 Advance in TryHackMe ranking  
+- 🛡 Complete Blue Team learning path  
+- 🎓 Earn Security+ certification  
+- 🧩 Contribute to open-source security tools  
+
+---
+
+<h3 align="center">🌟 "Building a Safer Digital World, One Project at a Time"</h3>
+
+<p align="center">
+⭐ Feel free to explore my repositories and drop a star if you find something useful!
+</p>
+
+<p align="center">
+🖥 Security Projects | 🛡 Network Defense | 📚 Continuous Learning
+</p>
 
 ---
 
@@ -107,7 +121,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/GunavathiC)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/gunavathi-c-0098413a9 )
 
-                              
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:00e676&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff"/>
+</p>
 
 
 
