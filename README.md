@@ -107,7 +107,11 @@ best practices,phishing risks, and safe security habits.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GunavathiC&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GunavathiC&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunavathiC&layout=compact&theme=dark" />
+</p>
+
 
 ---
 
