@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.E / B.Tech Student  
+- 🎓 B.EStudent  
 - 🛡️ Interested in Cybersecurity & SOC Operations  
 - 🔍 Learning by doing & building projects  
 - ⚡ Motto: Consistency > Perfection  
@@ -52,7 +52,7 @@
 🔹 **Green-GAN**
 🔹 **Web-Application-Vulnerability-Scanner**
 🔹 **BLOOD-BANK-MANAGEMENT-SYSTEM**
-🔹 **House-Prediction-ML_Project
+🔹 **House-Prediction-ML_Project**
 
 ---
 
