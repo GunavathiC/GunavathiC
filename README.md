@@ -54,14 +54,15 @@
 
 ---
 
-## 📂 Featured Projects
+## 📁 Featured Projects
 
-🔹 **E-Wallet Security using Blockchain**  
-🔹 **Cyber-Threat-Intelligence-Dashboard**  
-🔹 **Green-GAN**
-🔹 **Web Application Vulnerability Scanner**
-🔹 **BLOOD BANK MANAGEMENT SYSTEM**
-🔹 **House Prediction ML Project**
+- 🔹 E-Wallet Security using Blockchain  
+- 🔹 Cyber-Threat-Intelligence-Dashboard  
+- 🔹 Green-GAN  
+- 🔹 Web Application Vulnerability Scanner  
+- 🔹 Blood Bank Management System  
+- 🔹 House Prediction ML Project  
+
 
 ---
 ## 🏆 Certifications & Practice Platforms
