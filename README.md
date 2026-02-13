@@ -64,6 +64,41 @@
 🔹 **House-Prediction-ML_Project**
 
 ---
+## 🏆 Certifications & Practice Platforms
+
+| Platform      | Status        | Focus Area |
+|--------------|--------------|-------------|
+| TryHackMe    | Active        | Practical Labs & Challenges |
+| Blue Team Labs | In Progress | Defensive Security |
+| Self-Study   | Ongoing       | SOC & Log Analysis |
+
+---
+## 🛠 Current Tech Stack
+
+**Operating Systems**  
+- Linux (Ubuntu / Kali)  
+- Windows  
+
+**Security & Analysis Tools**  
+- Wireshark  
+- Nmap  
+- Netcat  
+
+**Languages & Scripting**  
+- Python  
+- Bash  
+
+**Focus Areas**  
+- Network Security  
+- IDS / IPS  
+- SOC Operations  
+- Log Analysis  
+
+**Learning Platforms**  
+- TryHackMe  
+- Hands-on Labs
+
+---
 
 ## 📊 GitHub Stats
 
