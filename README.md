@@ -105,16 +105,6 @@ best practices,phishing risks, and safe security habits.
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GunavathiC&show_icons=true&theme=dark&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunavathiC&layout=compact&theme=dark&cache_seconds=1800" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - ✅ Build hands-on security projects  
