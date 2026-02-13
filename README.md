@@ -14,10 +14,11 @@
 
 ## 🔐 What I'm Focused On
 
-- Cybersecurity Fundamentals  
-- Network Security & IDS/IPS  
-- SOC & Log Analysis  
-- Ethical Hacking Concepts  
+🔒 Cybersecurity fundamentals & attack vectors
+🌐 Network Security & IDS/IPS
+🖥️ Remote Login Security (Windows & Linux)
+📊 SOC fundamentals & log analysis
+🛡️ Ethical Hacking & Blue Team concepts 
 
 ---
 
@@ -30,6 +31,14 @@
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-green)
 ![Firewalls](https://img.shields.io/badge/Firewalls-red)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-purple)
+
+Core Competencies:
+
+TCP/IP Protocol Analysis
+DNS & HTTP/HTTPS Security
+Firewall Configuration & Management
+Intrusion Detection/Prevention Systems
+Authentication & Access Control
 
 **Tools**
 
