@@ -74,12 +74,13 @@ Built a project exploring common web vulnerabilities and detection logic.
 Hands-on exercises covering scanning, enumeration, and traffic analysis.
 
 🔹 **Green-GAN (Machine Learning Project)**  
-Implemented a GAN-based machine learning model to analyze data patterns and
-explore anomaly detection concepts applicable to identifying novel or unusual cyber threats.
+Implemented a GAN-based machine learning model to analyze data patterns 
+and explore anomaly detection concepts applicable to identifying novel 
+or unusual cyber threats.
 
 🔹**Security Awareness Quiz App**
-Built an interactive quiz application to educate users on cybersecurity best practices,
-phishing risks, and safe security habits.
+Built an interactive quiz application to educate users on cybersecurity 
+best practices,phishing risks, and safe security habits.
 
 ---
 ## 🏆 Certifications & Practice Platforms
