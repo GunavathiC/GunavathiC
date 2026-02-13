@@ -32,13 +32,13 @@
 ![Firewalls](https://img.shields.io/badge/Firewalls-red)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-purple)
 
-Core Competencies:
+## Core Competencies:
 
-TCP/IP Protocol Analysis
-DNS & HTTP/HTTPS Security
-Firewall Configuration & Management
-Intrusion Detection/Prevention Systems
-Authentication & Access Control
+- TCP/IP Protocol Analysis
+- DNS & HTTP/HTTPS Security
+- Firewall Configuration & Management
+- Intrusion Detection/Prevention Systems
+- Authentication & Access Control
 
 **Tools**
 
