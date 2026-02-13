@@ -14,11 +14,11 @@
 
 ## 🔐 What I'm Focused On
 
-🔒 Cybersecurity fundamentals & attack vectors
-🌐 Network Security & IDS/IPS
-🖥️ Remote Login Security (Windows & Linux)
-📊 SOC fundamentals & log analysis
-🛡️ Ethical Hacking & Blue Team concepts 
+- 🔒 Cybersecurity fundamentals & attack vectors
+- 🌐 Network Security & IDS/IPS
+- 🖥️ Remote Login Security (Windows & Linux)
+- 📊 SOC fundamentals & log analysis
+- 🛡️ Ethical Hacking & Blue Team concepts 
 
 ---
 
