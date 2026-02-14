@@ -35,19 +35,19 @@ and projects.
 ---
 ## 🧰 Technical Skills
 
-**Programming & Scripting**  
+🔹**Programming & Scripting**  
 Python • JavaScript • HTML • SQL  
 
-**Frameworks & Development**  
+🔹**Frameworks & Development**  
 Flask • Express.js • Node.js • React • Streamlit  
 
-**Cloud & Platforms**  
+🔹**Cloud & Platforms**  
 Azure • AWS • Google Cloud • Firebase  
 
-**Tools & Technologies**  
+🔹**Tools & Technologies**  
 Docker • Postman • GitHub • MySQL  
 
-**Data & Analysis**  
+🔹**Data & Analysis**  
 NumPy • Pandas
 
 ## Core Competencies:
